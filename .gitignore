@@ -14,6 +14,7 @@ server.pid
 /dist/
 .cache
 .idea
+target/
 ### PlayFramework template
 # Ignore Play! working directory #
 ### JetBrains template
